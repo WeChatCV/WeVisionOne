@@ -1,0 +1,1 @@
+from .vit import EVA2_VitDetLarge1024

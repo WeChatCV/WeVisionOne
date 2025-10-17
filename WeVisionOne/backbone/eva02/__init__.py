@@ -1,0 +1,1 @@
+from .det import EVA2_VitDetLarge1024
