@@ -4,7 +4,6 @@ This repo is the official implementation of [Text-guided Visual Prompt DINO for 
 <p align="center">
   <img src=".asset/framework.png" width="100%">
 </p>
-* Gradio Demo
 
 Prompt-DINO is a unified model for open vocabulary detection and segmentation, capable of simultaneously outputting detection bounding boxes and segmentation masks. It accepts both text prompts and visual prompts, allowing it to perform detection and segmentation of the specified categories based on the given prompts. Prompt-DINO has been trained using over 10 million datasets and hundreds of millions of target instance boxes. It demonstrates strong performance in the field of open vocabulary detection and segmentation.
 
