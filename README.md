@@ -54,6 +54,7 @@ Two outputs will be produced in "./output" folder, they should be like:
   <img src=".asset/pred_box.png" width="45%">
   <img src=".asset/pred_mask.png" width="45%">
 </p>
+
 * Gradio Demo
 
 ```bash
